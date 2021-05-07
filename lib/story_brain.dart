@@ -61,7 +61,7 @@ class StoryBrain {
       } else {
         storyNumber = 3;
       }
-    }
+    } else {}
   }
 }
 
