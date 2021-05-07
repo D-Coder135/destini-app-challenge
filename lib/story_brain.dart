@@ -46,7 +46,7 @@ class StoryBrain {
     if (storyNumber == 0) {
       if (choiceNumber == 1) {
         storyNumber = 2;
-      }
+      } else {}
     }
   }
 }
