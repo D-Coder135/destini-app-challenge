@@ -28,7 +28,7 @@ class StoryBrain {
         '')
   ];
 
-  getStory() {
+  String getStory() {
     return _storyData[0].storyTitle;
   }
 }
