@@ -27,6 +27,8 @@ class StoryBrain {
         'Restart',
         '')
   ];
+
+  getStory() {}
 }
 
 //TODO: Step 6 - import the story.dart file into this file.
