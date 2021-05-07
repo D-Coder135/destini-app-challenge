@@ -49,7 +49,7 @@ class StoryBrain {
       } else {
         storyNumber = 1;
       }
-    }
+    } else if (storyNumber == 2) {}
   }
 }
 
