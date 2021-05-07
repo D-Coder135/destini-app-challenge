@@ -35,7 +35,7 @@ class StoryBrain {
   }
 
   String getChoice1() {
-    return _storyData[0].firstChoice;
+    return _storyData[storyNumber].firstChoice;
   }
 
   String getChoice2() {
