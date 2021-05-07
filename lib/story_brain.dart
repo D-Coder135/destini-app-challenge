@@ -39,7 +39,7 @@ class StoryBrain {
   }
 
   String getChoice2() {
-    return _storyData[0].secondChoice;
+    return _storyData[storyNumber].secondChoice;
   }
 
   void nextStory(int choiceNumber) {
