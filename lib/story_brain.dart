@@ -43,7 +43,9 @@ class StoryBrain {
   }
 
   void nextStory(int choiceNumber) {
-    if (storyNumber == 0) {}
+    if (storyNumber == 0) {
+      if (choiceNumber == 1) {}
+    }
   }
 }
 
