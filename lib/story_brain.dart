@@ -1,3 +1,5 @@
+import 'story.dart';
+
 class StoryBrain {}
 
 //TODO: Step 6 - import the story.dart file into this file.
