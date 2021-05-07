@@ -56,7 +56,9 @@ class StoryBrain {
         storyNumber = 4;
       }
     } else {
-      if (choiceNumber == 1) {}
+      if (choiceNumber == 1) {
+        storyNumber = 2;
+      }
     }
   }
 }
