@@ -49,6 +49,7 @@ class _StoryPageState extends State<StoryPage> {
               ),
               Expanded(
                 flex: 2,
+                // ignore: deprecated_member_use
                 child: FlatButton(
                   onPressed: () {
                     //Choice 1 made by user.
