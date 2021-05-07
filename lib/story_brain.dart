@@ -73,7 +73,9 @@ class StoryBrain {
   bool buttonShouldBeVisible() {
     if (_storyNumber == 0 || _storyNumber == 1 || _storyNumber == 2) {
       return true;
-    } else {}
+    } else {
+      return false;
+    }
   }
 }
 
